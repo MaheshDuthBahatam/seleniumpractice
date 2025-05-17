@@ -61,11 +61,7 @@
       <artifactId>junit-jupiter-params</artifactId>
       <scope>test</scope>
     </dependency>
-    <dependency>
-    	<groupId>java1</groupId>
-    	<artifactId>selinium</artifactId>
-    	<version>0.0.1-SNAPSHOT</version>
-    </dependency>
+   
   </dependencies>
 
   <build>
